@@ -131,7 +131,7 @@ Backend-focused Full-Stack Developer with **3+ years** of production experience 
 
 <p>
   <a href="https://linkedin.com/in/aman-tyagi-3979b1311/">LinkedIn</a> ·
-  <a href="[https://amantyagi.com](https://aman-tyagi-portfolio.netlify.app/)">Portfolio</a> ·
+  <a href="https://aman-tyagi-portfolio.netlify.app/">Portfolio</a> ·
   <a href="mailto:amantyagi4987@gmail.com">Email</a>
 </p>
 
