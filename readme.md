@@ -48,11 +48,4 @@ Global booking platform with complex pricing and availability logic. Redis cachi
 
 ---
 
-**Stats**
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=amantyagi23&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi23&layout=compact&theme=default&hide_border=true&langs_count=6&hide_title=true"/>
-
----
-
-[amantyagi.com](https://amantyagi.com) &nbsp;·&nbsp; [linkedin.com/in/amantyagi](https://linkedin.com/in/amantyagi) &nbsp;·&nbsp; amantyagi4987@gmail.com
+[amantyagi.com](https://aman-tyagi-portfolio.netlify.app/) &nbsp;·&nbsp; [linkedin.com/in/amantyagi](https://linkedin.com/in/aman-tyagi-3979b1311/) &nbsp;·&nbsp; amantyagi4987@gmail.com
